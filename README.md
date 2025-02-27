@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Engineering student at Sakarya University.<br><br>🧠 Passionate about technology, especially in programming languages and software design.<br><br>📌 Obsessed with organizing projects and turning chaotic ideas into structured systems (Notion is my second home 🏠).<br><br>💪 Believing that technology will play a key role in rebuilding my country and aiming to contribute to its digital future.<br>📫  Reach Me: dev.Selim.altin@gmail.com 
+🎓 Computer Engineering student at Sakarya University.<br><br>🧠 Passionate about technology, especially in programming languages and software design.<br><br>📌 Obsessed with organizing projects and turning chaotic ideas into structured systems (Notion is my second home 🏠).<br><br>💪 Believing that technology will play a key role in rebuilding my country and aiming to contribute to its digital future.<br><br>📫  Reach Me: dev.Selim.altin@gmail.com 
 
 
 ## 🌐 Socials:
