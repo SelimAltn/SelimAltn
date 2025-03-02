@@ -20,6 +20,12 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SelimAltn&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimAltn&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br/>
+<hr/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SelimAltn/SelimAltn/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SelimAltn/SelimAltn/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SelimAltn/SelimAltn/output/github-snake.svg" />
+</picture>
 <hr/><hr/><hr/>
 
 
