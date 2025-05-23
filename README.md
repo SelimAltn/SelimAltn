@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SelimAltn&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelimAltn&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelimAltn&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=css" alt="Top Languages" />
 </p>
 
 <p align="center">
