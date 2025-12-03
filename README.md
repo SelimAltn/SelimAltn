@@ -20,8 +20,8 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SelimAltn&show_icons=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelimAltn&layout=compact&theme=midnight-purple&hide_border=false" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SelimAltn&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SelimAltn&theme=github_dark" alt="Most Used Languages" />
 </p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=SelimAltn&theme=transparent&hide_border=true" alt="Streak Stats" />
